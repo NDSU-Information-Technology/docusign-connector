@@ -27,9 +27,9 @@
   	</parent>
 	
 	  <scm>
-    <developerConnection>scm:git:ssh://git@github.com/NDSU-Information-Technology/docusing-connector.git</developerConnection>
-    <url>https://github.com/NDSU-Information-Technology/docusing-connector</url>
-    <connection>scm:git:ssh://git@github.com/NDSU-Information-Technology/docusing-connector.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/NDSU-Information-Technology/docusign-connector.git</developerConnection>
+    <url>https://github.com/NDSU-Information-Technology/docusign-connector</url>
+    <connection>scm:git:ssh://git@github.com/NDSU-Information-Technology/docusign-connector.git</connection>
     <tag>HEAD</tag>
   </scm>
 	   
