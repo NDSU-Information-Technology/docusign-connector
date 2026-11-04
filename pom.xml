@@ -17,7 +17,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.ndsu.eci.midopint</groupId>
   <artifactId>docusign-connector</artifactId>
-  <version>2.1.0</version>
+  <version>2.1.1-SNAPSHOT</version>
   
   	<parent>
     	<groupId>com.evolveum.polygon</groupId>
@@ -30,7 +30,7 @@
     <developerConnection>scm:git:ssh://git@github.com/NDSU-Information-Technology/docusign-connector.git</developerConnection>
     <url>https://github.com/NDSU-Information-Technology/docusign-connector</url>
     <connection>scm:git:ssh://git@github.com/NDSU-Information-Technology/docusign-connector.git</connection>
-    <tag>docusign-connector-2.1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 	   
 	  <properties>
